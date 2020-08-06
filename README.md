@@ -12,6 +12,7 @@
 
 Клиентная часть сделана на Unity (PC и Android).
 Ссылка на скачивание Android: https://drive.google.com/file/d/1OeQiQjLAZEa4CITun75ll8mj_wJ3lYPi/view?usp=sharing
+
 Ссылка на скачивание PC: https://drive.google.com/drive/folders/1Wo8aOY7zWXWFssRgXhxspkhTRY-WCjVX?usp=sharing
 
 Несколько скриншотов:
